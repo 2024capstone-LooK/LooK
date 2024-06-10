@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "770437579780",
+    "firebase_url": "https://look-c1bf8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "look-c1bf8",
+    "storage_bucket": "look-c1bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770437579780:android:90e8a92cd9b1c5de77e151",
+        "android_client_info": {
+          "package_name": "com.looook.looook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrdsB2hP2We9QDaAwDpgLCcxDW8ajpQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
